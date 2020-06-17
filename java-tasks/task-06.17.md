@@ -2,8 +2,7 @@
 
 ## Tip:
 
-You can format the code with below command:
-`Cmd + Option + L`
+You can format the code with command: `Cmd + Option + L`
 
 ## Create the root class
 

@@ -51,9 +51,9 @@ Try to print them see if they're working as expected.
 1. `String briefInfo()`
 create a string like below
 
-    Country Taiwan has XXX population with a total area of XXX square km. Total GDP is XXX, per capital is XXX.
+**Country Taiwan has XXX population with a total area of XXX square km. Total GDP is XXX, per capital is XXX.**
 
-    and return it.
+and return it.
 
 2. `showBriefInfo()`
 in this method, print out the info we get in the previous method. Doing this by directly calling the previous function!
@@ -69,6 +69,8 @@ actionPoint; // Integer
 hp; // Integer
 mp; // Integer
 ```
+Create hero instances and init those attributes for him/her.
+
 
 ### Write methods for this class
 
@@ -81,6 +83,8 @@ heal(int healHp) // increase hp by healHp
 
 beingAttack(int decreasedHp) // decrease hp by decreasedHp
 ```
+
+Try to invoke these methods and see whether everything changed as expected. 
 
 ### Write a method to print all information in String
 
